@@ -1,0 +1,2 @@
+# Pingo
+Discord Bot
